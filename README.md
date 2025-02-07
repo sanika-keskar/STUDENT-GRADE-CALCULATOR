@@ -15,3 +15,5 @@ Description : My task was creating the STUDENT-GRADE-CALCULATOR
 
 Output:
 
+![Image](https://github.com/user-attachments/assets/c437803c-4b47-4f3d-9403-f5d567deb502)
+
