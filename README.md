@@ -1,10 +1,10 @@
 # STUDENT-GRADE-CALCULATOR
 
-Company: Codesoft
+Company: CodeAlpha
 
 Name: Keskar Sanika Subhash
 
-Intern Id:CS25AZ1327
+Intern Id:CA/MA1/2905
 
 Domain: Java Programming
 
